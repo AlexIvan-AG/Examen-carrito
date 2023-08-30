@@ -1,0 +1,12 @@
+body
+{
+    background-color: rgb(228, 215, 215);
+    color: red;
+}
+footer{
+    background-color: black;
+    color: white;
+}
+.card-body{
+    background-color: rgba(158, 227, 248, 0.384);
+}

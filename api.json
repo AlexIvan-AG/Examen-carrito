@@ -1,0 +1,86 @@
+[
+    {
+        "precio": 119.00,
+        "id": 1,
+        "title": "Demon Slayer #1",
+        "editorial":"Panini",
+        "thumbnailUrl": "https://propitiatory-pots.000webhostapp.com/Examen%20carrito/1.jpg"
+    },
+    {
+        "precio": 129.00,
+        "id": 2,
+        "title": "Dorohedoro #1",
+        "editorial":"Panini",
+        "thumbnailUrl": "https://propitiatory-pots.000webhostapp.com/Examen%20carrito/2.jpg"
+    },
+    {
+        "precio": 129.00,
+        "id": 3,
+        "title": "Beastars #1",
+        "editorial":"Panini",
+        "thumbnailUrl": "https://propitiatory-pots.000webhostapp.com/Examen%20carrito/3.jpg"
+    },
+    {
+        "precio": 380.00,
+        "id": 4,
+        "title": "Belle",
+        "editorial":"Panini",
+        "thumbnailUrl": "https://propitiatory-pots.000webhostapp.com/Examen%20carrito/4.jpg"
+    },
+    {
+        "precio": 119.00,
+        "id": 5,
+        "title": "Komi-San #1",
+        "editorial":"Panini",
+        "thumbnailUrl": "https://propitiatory-pots.000webhostapp.com/Examen%20carrito/5.jpg"
+    },
+    {
+        "precio":129.00,
+        "id": 6,
+        "title": "Chainsaw Man #1",
+        "editorial":"Panini",
+        "thumbnailUrl": "https://propitiatory-pots.000webhostapp.com/Examen%20carrito/6.jpg"
+    },
+    {
+        "precio": 99.00,
+        "id": 7,
+        "title": "My hero Academia #1",
+        "editorial":"Panini",
+        "thumbnailUrl": "https://propitiatory-pots.000webhostapp.com/Examen%20carrito/7.jpg"
+    },
+    {
+        "precio": 129.00,
+        "id": 8,
+        "title": "Ataque de los titanes #1",
+        "editorial":"Panini",
+        "thumbnailUrl": "https://propitiatory-pots.000webhostapp.com/Examen%20carrito/8.jpg"
+    },
+    {
+        "precio": 119.00,
+        "id": 9,
+        "title": "Spy x Family #1",
+        "editorial":"Panini",
+        "thumbnailUrl": "https://propitiatory-pots.000webhostapp.com/Examen%20carrito/9.jpg"
+    },
+    {
+        "precio": 129.00,
+        "id": 10,
+        "title": "Ao no flag",
+        "editorial":"Panini",
+        "thumbnailUrl": "https://propitiatory-pots.000webhostapp.com/Examen%20carrito/10.jpg"
+    },
+    {
+        "precio": 129.00,
+        "id": 11,
+        "title": "Miraculous Ladybug #1",
+        "editorial":"Panini",
+        "thumbnailUrl": "https://propitiatory-pots.000webhostapp.com/Examen%20carrito/11.jpg"
+    },
+    {
+        "precio": 129.00,
+        "id": 12,
+        "title": "Tokyo Revenger #1",
+        "editorial":"Panini",
+        "thumbnailUrl": "https://propitiatory-pots.000webhostapp.com/Examen%20carrito/12.jpg"
+    }
+]
